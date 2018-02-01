@@ -10,5 +10,6 @@ ctx.setLog = function(val){
 
 module.exports = {
 	ctx: ctx,
-	genetic: require('./lib/genetic/v1')
+	genetic: require('./lib/genetic/v1'),
+	deep: require('./lib/deep/v1')
 };

@@ -2,7 +2,7 @@ var random = require('../../../../lib/common/math').random;
 
 var l = 10;
 var r = 30;
-var count = 100;
+var count = 5000;
 
 var data = {};
 data.l = l;
